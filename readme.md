@@ -3,7 +3,7 @@
 Test project with the following features:
 - Image
 - Text
-hahhahaha
+hahhah
 
 # Miko Games
 
